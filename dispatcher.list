@@ -1,0 +1,5 @@
+1 sip:103.69.195.43:5060
+#2 sip:10.5.83.63:5062
+#3 sip:118.69.114.182:5060
+#1 sip:103.69.195.43:5060 0 0 duid=abc;socket=udp:10.5.83.63:5062;my=xyz;
+#1 sip:192.168.1.100:5080 0 0 duid=def;socket=udp:x.x.x.x:5060;my=xyz;ping_from=sip:myproxy.com
