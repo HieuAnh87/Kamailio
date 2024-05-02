@@ -4,12 +4,12 @@
 
 ## Mục lục
 
-1.  [Install Kamailio](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/setup.md)
-2.  [Config Log](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/config_log.md)
-3. [Kamailio](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/README.md#Kamailio)
-4. [Wiki](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/README.md#Wiki)
-5. [kamailio.cfg](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/kamailio.cfg)
-6. [Load Balancer](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/README.md#LOAD-BANLANCER)
+1.  [Install Kamailio](https://github.com/HieuAnh87/kamailio/-/blob/main/setup.md)
+2.  [Config Log](https://github.com/HieuAnh87/kamailio/-/blob/main/config_log.md)
+3. [Kamailio](https://github.com/HieuAnh87/kamailio/-/blob/main/README.md#Kamailio)
+4. [Wiki](https://github.com/HieuAnh87/kamailio/-/blob/main/README.md#Wiki)
+5. [kamailio.cfg](https://github.com/HieuAnh87/kamailio/-/blob/main/kamailio.cfg)
+6. [Load Balancer](https://github.com/HieuAnh87/kamailio/-/blob/main/README.md#LOAD-BANLANCER)
 
 ### Wiki
 
