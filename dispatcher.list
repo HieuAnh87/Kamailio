@@ -1,4 +1,12 @@
-1 sip:103.69.195.43:5060
+# dispatcher destination sets (groups)
+#
+# line format
+# setid(int) destination(sip uri) flags(int,opt) priority(int,opt) attributes(str,opt)
+
+#proxies
+#1 sip:103.69.194.67:5060 0 0
+1 sip:103.69.195.67:5060
+
 #2 sip:10.5.83.63:5062
 #3 sip:118.69.114.182:5060
 #1 sip:103.69.195.43:5060 0 0 duid=abc;socket=udp:10.5.83.63:5062;my=xyz;

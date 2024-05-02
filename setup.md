@@ -46,7 +46,7 @@ compiled with gcc 9.4.0
 
 
 #### B4: Configure Kamailio
-- config kamctlrc (config như file [kamctltrc](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/kamctlrc)))
+- config kamctlrc (config như file [kamctltrc](https://github.com/HieuAnh87/kamailio/-/blob/main/kamctlrc)))
 ```
 sudo vim /etc/kamailio/kamctlrc
 $ sudo kamdbctl create
