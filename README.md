@@ -19,6 +19,7 @@
 - [ ] [RTP PROXY](https://computingforgeeks.com/how-to-install-rtpproxy-from-source-on-ubuntu-linux/)
 - [ ] [RTP ENGINE](https://gist.github.com/altanai/61b2b0cf430aa817a5d78d93bd2c3842)
 - [ ] [LOAD BALANCE](http://www.kamailio.org/events/2013-KamailioWorld/23-Daniel-Constantin.Mierla-Load-Balancing-Load-Balancers.pdf)
+- [] [Intergration with Asterisk](https://www.kamailio.org/wiki/tutorials/asterisk/kamailio-4.0.x-asterisk-11.0.0-astdb)
 
 ### Kamailio
 
@@ -40,6 +41,6 @@
 - Sử dụng MariaDB hoặc MySQL làm backend(default)
 ### LOAD BALANCER
 
-- Các địa chỉ định tuyến được lưu trong file [dispatcher.list](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/dispatcher.list)
-- Chỉnh sửa trong file cấu hình [kamailio.cfg](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/kamailio.cfg) (path: /etc/kamailio/kamailio.cfg)
-- Config giống như [file mẫu](https://git.k8s.vn/dhieu23nd/kamailio/-/blob/main/kamailio.cfg#L1190)
+- Các địa chỉ định tuyến được lưu trong file [dispatcher.list](https://github.com/HieuAnh87/kamailio/blob/master/dispatcher.list)
+- Chỉnh sửa trong file cấu hình [kamailio.cfg](https://github.com/HieuAnh87/kamailio/-/blob/main/kamailio.cfg) (path: /etc/kamailio/kamailio.cfg)
+- Config giống như [file mẫu](https://github.com/HieuAnh87/kamailio/-/blob/main/kamailio.cfg#L1190)
