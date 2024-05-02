@@ -4,16 +4,16 @@
 
 ## Mục lục
 
-1.  [Install Kamailio](https://github.com/HieuAnh87/kamailio/-/blob/main/setup.md)
-2.  [Config Log](https://github.com/HieuAnh87/kamailio/-/blob/main/config_log.md)
-3. [Kamailio](https://github.com/HieuAnh87/kamailio/-/blob/main/README.md#Kamailio)
-4. [Wiki](https://github.com/HieuAnh87/kamailio/-/blob/main/README.md#Wiki)
-5. [kamailio.cfg](https://github.com/HieuAnh87/kamailio/-/blob/main/kamailio.cfg)
-6. [Load Balancer](https://github.com/HieuAnh87/kamailio/-/blob/main/README.md#LOAD-BANLANCER)
+1.  [Install Kamailio](https://github.com/HieuAnh87/kamailio/blob/master/setup.md)
+2.  [Config Log](https://github.com/HieuAnh87/kamailio/blob/master/config_log.md)
+3. [Kamailio](https://github.com/HieuAnh87/kamailio/blob/master/README.md#Kamailio)
+4. [Wiki](https://github.com/HieuAnh87/kamailio/blob/master/README.md#Wiki)
+5. [kamailio.cfg](https://github.com/HieuAnh87/kamailio/blob/master/kamailio.cfg)
+6. [Load Balancer](https://github.com/HieuAnh87/kamailio/blob/master/README.md#LOAD-BANLANCER)
 
 ### Wiki
 
-- [ ] [Core Cookbook](https://www.kamailio.org/wikidocs/cookbooks/5.7.x/core/#request_route)
+- [ ] [Core Cookbook](https://www.kamailio.org/wikidocs/cookbooks/5.7.x/core/)
 - [ ] [Kamailio Modules](https://www.kamailio.org/docs/modules/stable/)
 - [ ] [Kamailio Database tables](https://kamailio.org/docs/db-tables/kamailio-db-5.7.x.html)
 - [ ] [RTP PROXY](https://computingforgeeks.com/how-to-install-rtpproxy-from-source-on-ubuntu-linux/)
@@ -42,5 +42,5 @@
 ### LOAD BALANCER
 
 - Các địa chỉ định tuyến được lưu trong file [dispatcher.list](https://github.com/HieuAnh87/kamailio/blob/master/dispatcher.list)
-- Chỉnh sửa trong file cấu hình [kamailio.cfg](https://github.com/HieuAnh87/kamailio/-/blob/main/kamailio.cfg) (path: /etc/kamailio/kamailio.cfg)
-- Config giống như [file mẫu](https://github.com/HieuAnh87/kamailio/-/blob/main/kamailio.cfg#L1190)
+- Chỉnh sửa trong file cấu hình [kamailio.cfg](https://github.com/HieuAnh87/kamailio/-/blob/master/kamailio.cfg) (path: /etc/kamailio/kamailio.cfg)
+- Config giống như [file mẫu](https://github.com/HieuAnh87/kamailio/-/blob/master/kamailio.cfg#L1190)
